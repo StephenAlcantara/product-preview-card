@@ -42,7 +42,7 @@ body {
 }
 
 .thumb {
-    background: url(images/image-product-desktop.jpg);
+    background: url(images/image-product-mobile.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -123,11 +123,11 @@ button:hover {
         top: 50%;
         left: 50%;
         transform: translate(-50%, 40%);
-        width: 30%;
+        width: 40%;
     }
 
     .thumb {
-        background: url(images/image-product-mobile.jpg);
+        background: url(images/image-product-desktop.jpg);
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
